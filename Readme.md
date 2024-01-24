@@ -1,4 +1,4 @@
-# Debayering Filter With VHDL
+# FIR Filter With VHDL
 
 [![build with Vivado](https://img.shields.io/badge/built%20with-Vivado-green)](https://www.xilinx.com/products/design-tools/vivado.html) 
 
